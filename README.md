@@ -1,6 +1,6 @@
-# Tarea Semana 3 — Vectores de Datos Económicos
+# Tarea Semana 3 
 
-Análisis financiero mensual de un negocio mediante vectores en R, calculando ganancias netas a partir de ventas y costos, evaluando metas de facturación y obteniendo estadísticas descriptivas.
+Análisis a un negocio, calculando ganancias netas a partir de ventas y costos.
 
 ## Datos
 
