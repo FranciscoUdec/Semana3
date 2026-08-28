@@ -1,4 +1,4 @@
-## Tarea semana 3
+## Tarea Semana 3
 # Autor: Francisco Inostroza
 # Fecha: 28-08-2026
 # que hace: Evaluar la ganancia en 4 meses de un negocio segun sus ventas y costos
